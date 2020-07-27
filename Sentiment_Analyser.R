@@ -1,3 +1,18 @@
+#############################################################################################################################
+# Project 2020
+# Developer: Aparna Naik
+# Project Name: Sentiment Analysis Using Text Mining In Health Care Field
+# Project Aim: Finding the accuracies of various proportions of datasets(training and testing)
+# Date: 24/04/2020
+#############################################################################################################################
+
+#############################################################################################################################
+# The dataset considered consists of 180 blogs which is not uploaded because of copyright issues. The dataset consists of two 
+# columns, one is called as Sentiment and another is called Medical Condition. --> Used in the code. The accuracy of the code 
+# is found out finally which depicts that 90:10 division of training and testing dataset results in maximum accuracy.
+#############################################################################################################################
+
+
 # Load required libraries
 library(tm)
 library(e1071)
