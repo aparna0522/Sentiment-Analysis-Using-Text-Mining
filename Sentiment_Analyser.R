@@ -1,6 +1,6 @@
 #############################################################################################################################
 # Project 2020
-# Developer: Aparna Naik
+# Developer: Aparna Naik, Vedanti Pawar, Janhavi Choudhari
 # Project Name: Sentiment Analysis Using Text Mining In Health Care Field
 # Project Aim: Finding the accuracies of various proportions of datasets(training and testing)
 # Date: 24/04/2020
