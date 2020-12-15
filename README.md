@@ -15,9 +15,9 @@ Datasets Source: Online Website - https://patient.info/ (Educational purpose onl
 1. Clone this repository. 
 2. Create a database consisting of two columns: Label and Blogs \
    In the "Label" column, the sentiment of the blog will be mentioned, i.e. Exists, Deteriorate or Recover. \
-   In the "Blogs" column, input the blogs from any online forums, or self articulated blogs from various sources. \
+   In the "Blogs" column, input the blogs from any online forums, or self articulated blogs from various sources. 
 3. Open R compiler, run the entire code. 
 
 <h3>How to increase the accuracy?</h3>
-1. Increase or decrease the number of times the dataset is randomized. It can help in increasing the accuracy by 10% at most. \
+1. Increase or decrease the number of times the dataset is randomized. It can help in increasing the accuracy by 10% at most. 
 2. Try to label the dataset more accurately.
