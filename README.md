@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Using-Text-Mining-In-Health-Care-Field
+# Sentiment-Analysis-Using-Text-Mining
 <h3>Brief Description about the project</h3>
 
 Sentiment Analysis of Patients' Blogs from various online forums and analysing them into categories 
@@ -24,3 +24,18 @@ Datasets Source: Online Website - https://patient.info/ (Educational purpose onl
 
 1. Increase or decrease the number of times the dataset is randomized, it can help in increasing the accuracy by 10% at most.   
 2. Try to label the dataset more accurately.
+
+<h4> Results </h4>
+
+Results from the dataset considered show the sentiment scores for the given emotion (anger, anticipation, fear, ....)
+
+<img width="666" alt="Screenshot 2021-11-29 at 1 56 29 PM" src="https://user-images.githubusercontent.com/36110304/143833046-f61e9369-9d83-4805-ac6b-b81b3d28cfef.png">
+
+Utilizing different proportions of training and testing datasets to find the accuracy changes
+
+<img width="1057" alt="Screenshot 2021-11-29 at 1 57 04 PM" src="https://user-images.githubusercontent.com/36110304/143833056-b9de6618-fb8f-4407-af3f-9de2ae882f6b.png">
+<img width="1044" alt="Screenshot 2021-11-29 at 1 57 17 PM" src="https://user-images.githubusercontent.com/36110304/143833063-68ecaf65-f099-4963-b0d2-a434b219e7a3.png">
+
+Accuracy verses the proportion of dataset used for training
+
+<img width="774" alt="Screenshot 2021-11-29 at 1 57 28 PM" src="https://user-images.githubusercontent.com/36110304/143833067-44c9e377-98c3-4d76-8e4a-3d3cf0fca276.png">
