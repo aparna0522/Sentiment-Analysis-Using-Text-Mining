@@ -33,9 +33,9 @@ Results from the dataset considered show the sentiment scores for the given emot
 
 Utilizing different proportions of training and testing datasets to find the accuracy changes
 
-<img width="1057" alt="Screenshot 2021-11-29 at 1 57 04 PM" src="https://user-images.githubusercontent.com/36110304/143833056-b9de6618-fb8f-4407-af3f-9de2ae882f6b.png">
-<img width="1044" alt="Screenshot 2021-11-29 at 1 57 17 PM" src="https://user-images.githubusercontent.com/36110304/143833063-68ecaf65-f099-4963-b0d2-a434b219e7a3.png">
+<img width="666" alt="Screenshot 2021-11-29 at 1 57 04 PM" src="https://user-images.githubusercontent.com/36110304/143833056-b9de6618-fb8f-4407-af3f-9de2ae882f6b.png">
+<img width="666" alt="Screenshot 2021-11-29 at 1 57 17 PM" src="https://user-images.githubusercontent.com/36110304/143833063-68ecaf65-f099-4963-b0d2-a434b219e7a3.png">
 
 Accuracy verses the proportion of dataset used for training
 
-<img width="774" alt="Screenshot 2021-11-29 at 1 57 28 PM" src="https://user-images.githubusercontent.com/36110304/143833067-44c9e377-98c3-4d76-8e4a-3d3cf0fca276.png">
+<img width="666" alt="Screenshot 2021-11-29 at 1 57 28 PM" src="https://user-images.githubusercontent.com/36110304/143833067-44c9e377-98c3-4d76-8e4a-3d3cf0fca276.png">
